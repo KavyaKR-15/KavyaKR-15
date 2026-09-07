@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kavya%20K%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20CS%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Kavya%20K%20R&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Aspiring%20CS%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Kavya+K+R+%F0%9F%91%8B;Aspiring+Software+Engineer+%7C+CSE+2027;AI+%2B+ML+%2B+Full-Stack+Developer;LeetCode+Problem+Solver+%F0%9F%A7%A9;Building+solutions+that+matter+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Kavya+K+R+%F0%9F%91%8B;Aspiring+Software+Engineer+%7C+CSE+2027;AI+%2B+ML+%2B+Full-Stack+Developer;LeetCode+Problem+Solver+%F0%9F%A7%A9;Building+solutions+that+matter+%F0%9F%9A%80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Kavya+K+R+%F0%9F%91%8B;Aspiring+Software+Engineer+%7C+CSE+2027;AI+%2B+ML+%2B+Full-Stack+Developer;LeetCode+Problem+Solver+%F0%9F%A7%A9;Building+solutions+that+matter+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Kavya+K+R+%F0%9F%91%8B;Aspiring+Software+Engineer+%7C+CSE+2027;AI+%2B+ML+%2B+Full-Stack+Developer;LeetCode+Problem+Solver+%F0%9F%A7%A9;Building+solutions+that+matter+%F0%9F%9A%80)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KavyaKR-15&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/KavyaKR-15)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kavya--kr-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavya-kr-973281291)
@@ -21,7 +21,7 @@
 class KavyaKR:
     def __init__(self):
         self.name        = "Kavya K R"
-        self.location    = "Coimbatore, Tamil Nadu 🇮🇳"
+        self.location    = "Coimbatore, Tamil Nadu"
         self.degree      = "B.E. Computer Science & Engineering (2027)"
         self.college     = "Dr. N.G.P. Institute of Technology"
         self.github      = "github.com/KavyaKR-15"
@@ -36,16 +36,16 @@ class KavyaKR:
         ]
 
         self.currently_learning = [
-            "🤖 Machine Learning  → Scikit-learn, TensorFlow",
-            "☁️  Cloud Computing  → AWS, GCP basics",
-            "🔗 MERN Stack        → Advanced patterns",
-            "📊 Power BI          → Data visualization",
+            "Machine Learning  -> Scikit-learn, TensorFlow",
+            "Cloud Computing   -> AWS, GCP basics",
+            "MERN Stack        -> Advanced patterns",
+            "Power BI          -> Data visualization",
         ]
 
-        self.fun_fact = "I built an AI that talks sign language 🤟"
+        self.fun_fact = "I built an AI that talks sign language!"
 
     def motto(self):
-        return "Code. Create. Contribute. 🚀"
+        return "Code. Create. Contribute."
 
 me = KavyaKR()
 print(me.motto())
@@ -97,10 +97,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/KavyaKR-15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KavyaKR-15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KavyaKR-15&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
 </a>
 <a href="https://github.com/KavyaKR-15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaKR-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaKR-15&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
 </a>
 
 </div>
@@ -111,7 +111,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KavyaKR-15&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=KavyaKR-15&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10"/>
 
 </div>
 
@@ -121,7 +121,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Kavya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KavyaKR-15&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/KavyaKR-15)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KavyaKR-15&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true"/>
 
 </div>
 
@@ -131,7 +131,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KavyaKR-15&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/KavyaKR-15)
+<img src="https://github-profile-trophy.vercel.app/?username=KavyaKR-15&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4"/>
 
 </div>
 
@@ -141,11 +141,15 @@ print(me.motto())
 
 <div align="center">
 
-[![Kavya's LeetCode Stats](https://leetcard.jacoblin.cool/KavyaKR15?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/KavyaKR15/)
+<img src="https://leetcard.jacoblin.cool/KavyaKR15?theme=dark&amp;font=Fira%20Code&amp;ext=heatmap&amp;border=0"/>
 
-[![LeetCode Submissions Graph](https://leetcode-stats-six.vercel.app/KavyaKR15/graph?theme=dark&width=700)](https://leetcode.com/u/KavyaKR15/)
+<br/>
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-KavyaKR15-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/KavyaKR15/)
+<img src="https://leetcode-stats-six.vercel.app/KavyaKR15/graph?theme=dark&amp;width=700"/>
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-KavyaKR15-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/KavyaKR15/)
 
 </div>
 
@@ -173,9 +177,9 @@ print(me.motto())
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---:|:---:|:---|
-| [**LinkTrack**](https://github.com/KavyaKR-15/LinkTrack) | React.js · Express.js · Node.js · MongoDB | MERN stack URL shortener — short URL generation, auto-redirection, click analytics dashboard & URL history management |
-| [**Hand Talk AI**](https://github.com/KavyaKR-15/Hand-Talk-AI) | Python · OpenCV · Web | Sign language detection web app converting hand signs → text in real-time; empowers deaf & mute users |
-| [**AI Crop Recommendation**](https://github.com/KavyaKR-15/Farmer-s-chatbot) | Python · Groq AI | AI-powered chatbot that gives personalised crop suggestions to farmers using Groq's LLM |
+| [**LinkTrack**](https://github.com/KavyaKR-15/LinkTrack) | React.js · Express.js · Node.js · MongoDB | MERN stack URL shortener — short URL generation, auto-redirection, click analytics dashboard and URL history management |
+| [**Hand Talk AI**](https://github.com/KavyaKR-15/Hand-Talk-AI) | Python · OpenCV · Web | Sign language detection web app converting hand signs to text in real-time; empowers deaf and mute users |
+| [**AI Crop Recommendation**](https://github.com/KavyaKR-15/Farmer-s-chatbot) | Python · Groq AI | AI-powered chatbot giving personalised crop suggestions to farmers using Groq LLM |
 
 </div>
 
@@ -183,10 +187,10 @@ print(me.motto())
 
 | 🗂️ Project | 🛠️ Stack | 📝 Description |
 |:---:|:---:|:---|
-| Moon Phase Detector | Python · OpenCV | Intelligent lunar phase classification from images using feature extraction & image preprocessing |
-| Hospital Management System | Python · Tkinter · SQLite | GUI app managing patient records, doctor records, appointments & billing |
-| Book Management System | Python · Tkinter · SQLite | Library app handling book records, user records & borrower management |
-| Summer Camp Admission Page | HTML · CSS · JavaScript | Web form handling admission & registration workflows |
+| Moon Phase Detector | Python · OpenCV | Intelligent lunar phase classification from images using feature extraction and image preprocessing |
+| Hospital Management System | Python · Tkinter · SQLite | GUI app managing patient records, doctor records, appointments and billing |
+| Book Management System | Python · Tkinter · SQLite | Library app handling book records, user records and borrower management |
+| Summer Camp Admission Page | HTML · CSS · JavaScript | Web form handling admission and registration workflows |
 
 ---
 
@@ -199,9 +203,9 @@ print(me.motto())
 | 🏆 | **Microsoft Certified: Power BI Data Analyst Associate** | NASSCOM certified — industry-recognised BI credential |
 | 🥈 | **NPTEL — Introduction to IoT** | Score: **75% — Elite Silver** badge |
 | 🥉 | **NPTEL — Cloud Computing** | Score: **64% — Elite** badge |
-| 📜 | **NPTEL — Responsible & Safe AI Systems** | **50%** successfully completed |
+| 📜 | **NPTEL — Responsible and Safe AI Systems** | **50%** successfully completed |
 | 🤖 | **GenAI for Professionals** | Udemy certification |
-| 🍃 | **Introduction to AI & Vector Search** | MongoDB certification |
+| 🍃 | **Introduction to AI and Vector Search** | MongoDB certification |
 | 🌱 | **Renewable Energy Technology Fundamentals** | Coursera certification |
 | 🖐️ | **Paper Presentation — Automatic Sign Detection** | Sri Ramakrishna Engineering College |
 | 💡 | **Project Expo — Hand Talk AI** | Dr. N.G.P. Institute of Technology |
@@ -218,7 +222,7 @@ print(me.motto())
 
 | 📚 Degree | 🏫 Institution | 📅 Year |
 |:---:|:---|:---:|
-| **B.E. Computer Science & Engineering** | Dr. N.G.P. Institute of Technology, Coimbatore | 2023 – 2027 |
+| **B.E. Computer Science and Engineering** | Dr. N.G.P. Institute of Technology, Coimbatore | 2023 – 2027 |
 | **B.A. Hindi** | Dakshina Bharat Hindi Prachar Sabha, Madras | 2020 |
 | **12th Standard** | PSG Sarvajana Higher Secondary School | 2023 |
 | **10th Standard** | National Model Matriculation Higher Secondary School | 2021 |
@@ -230,11 +234,11 @@ print(me.motto())
 ## 📖 Currently Learning
 
 ```
-🤖 Machine Learning     →  Scikit-learn | TensorFlow | Model deployment
-☁️  Cloud Computing     →  AWS fundamentals | GCP basics | Serverless
-🔗 Advanced MERN        →  Auth patterns | REST best practices | Socket.io
-📊 Data Analytics       →  Power BI dashboards | Data storytelling
-🧠 Generative AI        →  Prompt engineering | LangChain | Vector databases
+Machine Learning     ->  Scikit-learn | TensorFlow | Model deployment
+Cloud Computing      ->  AWS fundamentals | GCP basics | Serverless
+Advanced MERN        ->  Auth patterns | REST best practices | Socket.io
+Data Analytics       ->  Power BI dashboards | Data storytelling
+Generative AI        ->  Prompt engineering | LangChain | Vector databases
 ```
 
 ---
@@ -243,16 +247,16 @@ print(me.motto())
 
 ![Tamil](https://img.shields.io/badge/Tamil-Native-38BDAE?style=flat-square)
 ![English](https://img.shields.io/badge/English-Fluent-70A5FD?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Proficient_(B.A.)-BF91F3?style=flat-square)
+![Hindi](https://img.shields.io/badge/Hindi-Proficient-BF91F3?style=flat-square)
 
 ---
 
 <div align="center">
 
-*"Code. Create. Contribute. 🚀 — Building solutions that matter, one commit at a time."*
+*"Code. Create. Contribute. — Building solutions that matter, one commit at a time."*
 
 ⭐ **If you find my work interesting, consider giving a star!** ⭐
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
