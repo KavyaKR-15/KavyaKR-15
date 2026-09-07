@@ -159,9 +159,9 @@ print(me.motto())
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---:|:---:|:---|
-| [**LinkTrack**](https://github.com/KavyaKR-15) | React.js · Express.js · Node.js · MongoDB | MERN stack URL shortener — short URL generation, auto-redirection, click analytics dashboard & URL history management |
-| [**Hand Talk AI**](https://github.com/KavyaKR-15) | Python · OpenCV · Web | Sign language detection web app converting hand signs → text in real-time; empowers deaf & mute users |
-| [**AI Crop Recommendation**](https://github.com/KavyaKR-15) | Python · Groq AI | AI-powered chatbot that gives personalised crop suggestions to farmers using Groq's LLM |
+| [**LinkTrack**](https://github.com/KavyaKR-15/LinkTrack) | React.js · Express.js · Node.js · MongoDB | MERN stack URL shortener — short URL generation, auto-redirection, click analytics dashboard & URL history management |
+| [**Hand Talk AI**](https://github.com/KavyaKR-15/Hand-Talk-AI) | Python · OpenCV · Web | Sign language detection web app converting hand signs → text in real-time; empowers deaf & mute users |
+| [**AI Crop Recommendation**](https://github.com/KavyaKR-15/Farmer-s-chatbot) | Python · Groq AI | AI-powered chatbot that gives personalised crop suggestions to farmers using Groq's LLM |
 
 </div>
 
