@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Kavya+K+R+%F0%9F%91%8B;Aspiring+Software+Engineer+%7C+CSE+2027;AI+%2B+ML+%2B+Full-Stack+Developer;Building+solutions+that+matter+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Kavya+K+R+%F0%9F%91%8B;Aspiring+Software+Engineer+%7C+CSE+2027;AI+%2B+ML+%2B+Full-Stack+Developer;Building+solutions+that+matter+%F0%9F%9A%80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Kavya+K+R+%F0%9F%91%8B;Aspiring+Software+Engineer+%7C+CSE+2027;AI+%2B+ML+%2B+Full-Stack+Developer;LeetCode+Problem+Solver+%F0%9F%A7%A9;Building+solutions+that+matter+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Kavya+K+R+%F0%9F%91%8B;Aspiring+Software+Engineer+%7C+CSE+2027;AI+%2B+ML+%2B+Full-Stack+Developer;LeetCode+Problem+Solver+%F0%9F%A7%A9;Building+solutions+that+matter+%F0%9F%9A%80)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KavyaKR-15&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/KavyaKR-15)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kavya--kr-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavya-kr-973281291)
@@ -132,6 +132,20 @@ print(me.motto())
 <div align="center">
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KavyaKR-15&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/KavyaKR-15)
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+[![Kavya's LeetCode Stats](https://leetcard.jacoblin.cool/KavyaKR15?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/KavyaKR15/)
+
+[![LeetCode Submissions Graph](https://leetcode-stats-six.vercel.app/KavyaKR15/graph?theme=dark&width=700)](https://leetcode.com/u/KavyaKR15/)
+
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-KavyaKR15-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/KavyaKR15/)
 
 </div>
 
